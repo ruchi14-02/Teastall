@@ -1,0 +1,21 @@
+
+/*MOBILE MEDIUM*/
+@media(max-width:768px){
+    .productimg{
+        width: 400px; 
+      height: 350px;
+      text-align: center;
+      
+      }
+}
+
+/* tab */
+@media(min-width:768px) and (max-width:1023px) {
+    
+
+}
+
+@media(min-width:1024px) and (max-width:1440px){
+ 
+
+    }
